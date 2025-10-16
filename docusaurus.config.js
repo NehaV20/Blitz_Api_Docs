@@ -63,12 +63,12 @@ const config = {
         src: 'img/QX-icon.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'BLITZAPI',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'BLITZAPI',
+        // },
         {
           href: 'https://github.com/Quantxpress/BlitzAPI',
           label: 'GitHub',
