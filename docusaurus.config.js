@@ -8,7 +8,6 @@ const config = {
   tagline: 'Blitz API Docs & Market Data',
   favicon: 'img/icon.png',
 
-  // ✅ Set URLs correctly
   url: 'http://localhost:3000',
   baseUrl: '/',
 
